@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'Rubik Bubbles';
+    src: url(fonts/RubikBubbles-Regular.ttf);
+}
+
+body {
+    font-family: 'Rubik Bubbles';
+    letter-spacing: 4px;
+    text-align: center;
+    background-color: lightsteelblue;
+}
+
+h1 {
+    color: rgb(254, 139, 176);
+   
+    
+}
+.shape {
+   margin-top: 10px;
+    background-color: lightpink;
+    padding: 40px;
+}
+.button {
+    font-family: 'Rubik Bubbles';
+    letter-spacing: 4px;
+    
+    background-color: lightsteelblue;
+}
+    
+  
+  
+  .button:hover {
+    font-family: 'Rubik Bubbles';
+    letter-spacing: 6px;
+    background-color: rgb(240, 32, 199); /* Green */
+    color: rgb(200, 218, 248); 
+    font-variant: small-caps;
+}
+    
+  
